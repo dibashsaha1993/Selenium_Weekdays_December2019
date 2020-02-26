@@ -1,0 +1,43 @@
+<suite name="suite name">
+
+    <parameter name="browser" value="chrome"></parameter>
+
+   <!--<test name="test 1">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="url" value="https://jqueryui.com/"></parameter>
+        <packages>
+            <package name="com.sample"></package>
+        </packages>
+
+    </test>
+
+    <test name="test 2">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="url" value="https://jqueryui.com/"></parameter>
+        <packages>
+            <package name="com.complex.tests"></package>
+        </packages>
+
+    </test>
+
+    <test name="test 3">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="url" value="http://sprint.com/"></parameter>
+        <packages>
+            <package name="mouseHover.sprint.test"></package>
+        </packages>
+
+    </test>-->
+
+    <test name="test method">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="url" value="https://jqueryui.com/"></parameter>
+        <classes>
+            <class name="com.sample.BlogsPageTests">
+                <methods><include name="validateDesignAndDev"></include></methods>
+            </class>
+        </classes>
+
+    </test>
+
+</suite>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1ec948-5f7a-4706-b674-83f6a7c75287" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="staging" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YB6vylQxaZo5CrwL8F1r801UW9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/com" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/jQuary" />
+      <recent name="$PROJECT_DIR$/src/test/java/Jquary/tests" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.complex.tests" />
+      <recent name="sprint.tests" />
+      <recent name="utils" />
+      <recent name="commonMethods" />
+      <recent name="com.Jquary" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseHandling">
+    <configuration name="DatabaseHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.complex.tests.DatabaseHandling" />
+      <module name="Selenium_BootCamp_December2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.complex.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: cigna" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Cigna.BDD/cigna.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Selenium_BootCamp_December2019" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: cigna" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Cigna.BDD/cigna.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Selenium_BootCamp_December2019" />
+      <option name="NAME_FILTER" value="^$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CignaRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_BootCamp_December2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RunnerBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RunnerBDD" />
+      <option name="MAIN_CLASS_NAME" value="RunnerBDD.CignaRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/SprintSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_BootCamp_December2019" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SprintSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatabaseHandling" />
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/SprintSuite.xml" />
+        <item itemvalue="JUnit.CignaRunner" />
+        <item itemvalue="Cucumber java.Feature: cigna" />
+        <item itemvalue="Cucumber java.Scenario: " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1ec948-5f7a-4706-b674-83f6a7c75287" name="Default Changelist" comment="" />
+      <created>1582403874913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582403874913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582427459801">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="414" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1582427459801" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom" timestamp="1582613575608">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1582446891913" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1582613575608" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1582473680372" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1582446468374" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center" timestamp="1582613575607">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1582446468373" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left" timestamp="1582613575606">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1582604282900" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1582613575606" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1582446468372" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right" timestamp="1582613575607">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1582473680372" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1582446468373" />
+    <state x="286" y="162" key="Maven.ArtifactSearchDialog" timestamp="1582419061327">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="286" y="162" key="Maven.ArtifactSearchDialog/0.23.1680.960@0.23.1680.960" timestamp="1582419061327" />
+    <state x="187" y="145" key="SettingsEditor" timestamp="1582427566356">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="187" y="145" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1582427566356" />
+    <state x="619" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1582742303678">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="619" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1582742303678" />
+    <state x="619" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1582602687755" />
+    <state x="619" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1582494976254" />
+    <state x="619" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1582606250482" />
+    <state x="436" y="441" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1582443909962">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="436" y="441" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1680.960@0.23.1680.960" timestamp="1582443909962" />
+    <state x="565" y="247" key="run.anything.popup" timestamp="1582602770235">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="565" y="247" key="run.anything.popup/0.23.1680.961@0.23.1680.961" timestamp="1582602770235" />
+    <state x="343" y="239" width="670" height="58" key="search.everywhere.popup" timestamp="1582607478782">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="343" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1582445956942" />
+    <state x="343" y="238" width="670" height="677" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1582603522252" />
+    <state x="343" y="239" width="670" height="58" key="search.everywhere.popup/0.23.1680.965@0.23.1680.965" timestamp="1582607478782" />
+  </component>
+</project>
