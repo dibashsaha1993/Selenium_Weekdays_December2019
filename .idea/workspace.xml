@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="db1ec948-5f7a-4706-b674-83f6a7c75287" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegressionSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RegressionSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,34 +66,18 @@
       <recent name="com.Jquary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CustomerAPITest.createCustomerWith401HttpStatus">
+  <component name="RunManager" selected="TestNG./Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/RegressionSuite.xml">
     <configuration name="DatabaseHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.complex.tests.DatabaseHandling" />
       <module name="Selenium_BootCamp_December2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.complex.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Feature: cigna" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Cigna.BDD/cigna.feature" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="Selenium_BootCamp_December2019" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: cigna" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,6 +116,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/RegressionSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_BootCamp_December2019" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RegressionSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/SprintSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium_BootCamp_December2019" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/SprintSuite.xml" />
@@ -142,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/RegressionSuite.xml" />
         <item itemvalue="JUnit.CustomerAPITest.createCustomerWith401HttpStatus" />
         <item itemvalue="Application.DatabaseHandling" />
         <item itemvalue="TestNG./Users/dibashsaha/Desktop/Selenium_BootCamp_December2019/SprintSuite.xml" />
         <item itemvalue="JUnit.CignaRunner" />
-        <item itemvalue="Cucumber java.Feature: cigna" />
       </list>
     </recent_temporary>
   </component>
@@ -180,37 +176,37 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="414" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1582427459801" />
-    <state width="1518" height="256" key="GridCell.Tab.0.bottom" timestamp="1582613575608">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom" timestamp="1583090842735">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1582446891913" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1582613575608" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1582473680372" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1582446468374" />
-    <state width="1518" height="256" key="GridCell.Tab.0.center" timestamp="1582613575607">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center" timestamp="1583090842735">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1582446468373" />
-    <state width="1518" height="256" key="GridCell.Tab.0.left" timestamp="1582613575606">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left" timestamp="1583090842734">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1583090842734" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1582604282900" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1582613575606" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1582446468372" />
-    <state width="1518" height="256" key="GridCell.Tab.0.right" timestamp="1582613575607">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right" timestamp="1583090842735">
+      <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1582446891912" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
