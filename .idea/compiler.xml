@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Selenium_BootCamp_December2019" />
-        <module name="ApiSample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">

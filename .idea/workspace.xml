@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db1ec948-5f7a-4706-b674-83f6a7c75287" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtentReportResults.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegressionSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RegressionSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -101,7 +100,7 @@
       </method>
     </configuration>
     <configuration name="CustomerAPITest.createCustomerWith401HttpStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ApiSample" />
+      <module name="Selenium_BootCamp_December2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java.maven.Maven.*" />
@@ -112,6 +111,7 @@
       <option name="MAIN_CLASS_NAME" value="com.java.maven.Maven.CustomerAPITest" />
       <option name="METHOD_NAME" value="createCustomerWith401HttpStatus" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,41 +172,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="391" y="166" key="#CustomerAPITest.createCustomerWith401HttpStatus" timestamp="1583210877343">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="391" y="166" key="#CustomerAPITest.createCustomerWith401HttpStatus/0.23.1680.960@0.23.1680.960" timestamp="1583210877343" />
     <state x="414" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582427459801">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="414" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1582427459801" />
-    <state width="1518" height="256" key="GridCell.Tab.0.bottom" timestamp="1583090842735">
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom" timestamp="1583210902421">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
+    <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1583210902421" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1582613575608" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1582473680372" />
     <state width="1518" height="256" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1582446468374" />
-    <state width="1518" height="256" key="GridCell.Tab.0.center" timestamp="1583090842735">
+    <state width="1518" height="256" key="GridCell.Tab.0.center" timestamp="1583210902420">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
+    <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1583210902420" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
     <state width="1518" height="256" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1582446468373" />
-    <state width="1518" height="256" key="GridCell.Tab.0.left" timestamp="1583090842734">
+    <state width="1518" height="256" key="GridCell.Tab.0.left" timestamp="1583210902419">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1583090842734" />
+    <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1583210902419" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1582604282900" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1582495586178" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1582613575606" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1582473680371" />
     <state width="1518" height="256" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1582446468372" />
-    <state width="1518" height="256" key="GridCell.Tab.0.right" timestamp="1583090842735">
+    <state width="1518" height="256" key="GridCell.Tab.0.right" timestamp="1583210902421">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1583090842735" />
+    <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1583210902421" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1582604282901" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1582495586179" />
     <state width="1518" height="256" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1582613575607" />
@@ -224,10 +228,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="187" y="145" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1583090089016" />
-    <state x="619" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1582742303678">
+    <state x="619" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1583210273245">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="619" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1582742303678" />
+    <state x="619" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1583210273245" />
     <state x="619" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1582602687755" />
     <state x="619" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1582494976254" />
     <state x="619" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1582606250482" />
